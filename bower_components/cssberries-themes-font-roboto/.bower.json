@@ -1,0 +1,27 @@
+{
+  "name": "themes-font-roboto",
+  "version": "0.0.3",
+  "homepage": "https://github.com/cssberries/themes-font-roboto",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Roboto font",
+  "main": "themes-font-roboto.less",
+  "keywords": [
+    "font",
+    "oocss",
+    "bem",
+    "itcss",
+    "roboto"
+  ],
+  "license": "MIT",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "66c0d061ca3f67d9b3c81abaa6f8d7974c567637"
+  },
+  "_source": "https://github.com/cssberries/themes-font-roboto.git",
+  "_target": "*",
+  "_originalSource": "cssberries-themes-font-roboto"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "themes-cssberries",
+  "version": "0.0.7",
+  "homepage": "https://github.com/cssberries/themes-cssberries",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Materials system",
+  "main": "main.less",
+  "keywords": [
+    "css",
+    "BEM",
+    "ITCSS",
+    "OOCSS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cssberries-colors": "latest"
+  },
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.7",
+    "commit": "8505a99984dbcbe32ea949f9784efdb61189818b"
+  },
+  "_source": "https://github.com/cssberries/themes-cssberries.git",
+  "_target": "*",
+  "_originalSource": "cssberries-themes-cssberries"
+}

@@ -1,0 +1,32 @@
+{
+    "name": "typography",
+    "version": "0.0.1",
+    "homepage": "https://github.com/cssberries/typography",
+    "authors": [
+        "Yevgeniy Belov"
+    ],
+    "description": "",
+    "main": "typography.less",
+    "keywords": [
+        "text",
+        "fonts",
+        "typography",
+        "css",
+        "oocss",
+        "bem",
+        "itcss"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "devDependencies": {
+        "cssberries-themes-font-roboto": "latest",
+        "cssberries-themes-cssberries": "latest"
+    }
+
+}

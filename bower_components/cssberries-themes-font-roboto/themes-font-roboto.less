@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family =Roboto:100,300,400,500,700,900');
+
+
+.font--roboto{
+	font-family: 'Roboto', sans-serif;
+}
+
+// For use as a primary font of the design system
+// Requires: html{.font--roboto}
+.font--lightest {font-weight: 100}
+.font--lighter {font-weight: 300}
+.font--light {font-weight: 400}
+.font--medium {font-weight: 500}
+.font--bold {font-weight: 700}
+.font--bolder {font-weight: 900}
+.font--boldest {font-weight: 900}
+
+
+// For use as a not primary font of the design system
+.font--roboto{
+	&.font--lightest {font-weight: 100} //Thin
+	&.font--lighter {font-weight: 300} //Light
+	&.font--light {font-weight: 400} //Regular
+	&.font--medium {font-weight: 500} //Medium
+	&.font--bold {font-weight: 700} //Bold
+	&.font--bolder {font-weight: 900} //Black
+	&.font--boldest {font-weight: 900} //Black
+}

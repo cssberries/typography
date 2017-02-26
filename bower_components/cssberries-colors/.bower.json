@@ -1,0 +1,14 @@
+{
+  "name": "cssberries-colors",
+  "homepage": "https://github.com/cssberries/colors",
+  "version": "0.0.5",
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.5",
+    "commit": "63259b6ec939f5dee39d4f04c68307c0820f199b"
+  },
+  "_source": "https://github.com/cssberries/colors.git",
+  "_target": "*",
+  "_originalSource": "cssberries-colors"
+}
